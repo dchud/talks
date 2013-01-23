@@ -1,0 +1,134 @@
+Some things Aaron Swartz did
+============================
+
+First message to rss-dev
+------------------------
+
+   *August 14, 2000*
+
+   > "How was the spec developed? Was it done through email discussion
+   between the authors? If so, why did you choose this route, instead
+   of a more public method? Would you be open to making the archives
+   of this discussion available, so we could see the reasons behind
+   some of the decisions?"
+
+   [http://tech.groups.yahoo.com/group/rss-dev/message/2](http://tech.groups.yahoo.com/group/rss-dev/message/2)
+
+
+   *August 15, 2000*
+
+   > "Who wrote this spec? How did they get chosen? How did they write
+   it? Will transcripts of that discussion be made available? Why
+   did you choose a closed process rather than an open one?
+
+   > Don't misunderstand - I'm very thankful for the work you've done,
+   just curious why you've dropped a finished spec into our laps
+   without asking for public input. I'd appreciate it if you could
+   explain a bit more about the thinking behind the process."
+
+   [http://tech.groups.yahoo.com/group/rss-dev/message/14](http://tech.groups.yahoo.com/group/rss-dev/message/14)
+
+
+Who writes wikipedia?
+---------------------
+
+    *September 4, 2006*
+
+   > "When you put it all together, the story become clear: an outsider
+   makes one edit to add a chunk of information, then insiders make
+   several edits tweaking and reformatting it. In addition, insiders
+   rack up thousands of edits doing things like changing the name
+   of a category across the entire site — the kind of thing only
+   insiders deeply care about. As a result, insiders account for
+   the vast majority of the edits. But it's the outsiders who provide
+   nearly all of the content.
+
+   > And when you think about it, this makes perfect sense. Writing
+   an encyclopedia is hard. To do anywhere near a decent job, you
+   have to know a great deal of information about an incredibly
+   wide variety of subjects. Writing so much text is difficult, but
+   doing all the background research seems impossible."
+
+   > ...
+
+   > "If Wikipedia is written by occasional contributors, then growing
+   it requires making it easier and more rewarding to contribute
+   occasionally. Instead of trying to squeeze more work out of those
+   who spend their life on Wikipedia, we need to broaden the base
+   of those who contribute just a little bit."
+
+   [http://www.aaronsw.com/weblog/whowriteswikipedia](http://www.aaronsw.com/weblog/whowriteswikipedia)
+
+
+web.py
+------
+
+   *December 6, 2005*
+
+   > "The way I wrote web.py was simple: I imagined how things
+   should work and then I made that happen. Sometimes making things
+   just work takes a lot of code. Sometimes it only takes a little.
+   But either way, that fact is hidden from the user — they just
+   get the ideal API.
+
+   > So how should things work? The first principle is that code
+   should be clear and simple. If you want to output some text,
+   you call web.output. If you want to get form input, you call
+   web.input. There’s nothing particularly hard to remember.
+
+   > The second principle is that web.py should fit your code, not
+   the other way around. Every function in web.py is completely
+   independent, you can use whichever ones you want. You can put
+   your files wherever you like, and web.py will happily follow
+   along. If you want a piece of code to be run as a web app, you
+   call web.run, you don’t put your code in the magical place so
+   that web.py can run you.
+
+   > The third principle is that web.py should, by default, do the
+   right thing by the Web. This means distinguishing between GET
+   and POST properly. It means simple, canonical URLs which synonyms
+   redirect to. It means readable HTML with the proper HTTP headers.
+
+   > And that, as far as I’m concerned, are pretty much all the
+   principles you need."
+
+   [http://www.aaronsw.com/weblog/rewritingreddit](http://www.aaronsw.com/weblog/rewritingreddit Rewriting Reddit)
+
+      
+django magic removal
+--------------------
+
+ - guerrilla open source manifesto
+
+ - open library
+
+   [http://archive.org/details/code4lib.conf.2008.pres.BuildingtheOpenLibrary](http://archive.org/details/code4lib.conf.2008.pres.BuildingtheOpenLibrary)
+   
+   February 27, 2008
+
+   "Hey Aaron - we're here at the unconference and I'm wondering
+   if I maybe never sent you the details about where and when.  If
+   not, I'm sorry!  I must've assumed that you're on the lists and
+   would have seen the details that way.
+
+   We're at the embassy suites, room 103, near the main conference
+   registration desk.  Stop by if you can!
+
+    -Dan"
+
+   "On Feb 25, 2008, at 12:39 PM, Aaron Swartz wrote:
+
+   > Sorry, for some reason I had it down in my calendar as not starting
+   > until this afternoon. My life has been blown to smithereens so I'll
+   > try to pick up the pieces and make it over there when I can.
+
+   Oh no - that sounds awful.  I hope whatever's happened is going
+   to work out.
+
+   If you can get over here, we'd be glad to see you, whenever."
+
+   - personal correspondence
+
+ - "How we stopped SOPA"
+
+   http://www.youtube.com/watch?v=Fgh2dFngFsg
